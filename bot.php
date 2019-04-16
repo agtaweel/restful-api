@@ -1,5 +1,5 @@
 
-$hubVerifyToken = 'cloudwaysschool';
+$hubVerifyToken = 'EAAFofxYdbwUBAHPFf7LLcG8ZCq4pJAtPZBZCPVVCqn5H66TZCSABZCuAAX815TKlZAeOPhOH7Mxncq9jw6meZAEnOrbbXfrA2rg3ZACa2qRJlxh4YnOftvZAq8jS3JQVbS8NPaXE4lesrbc4ebBqp6akNmCzZCqZAv2kcDlg4HNlH1QvgZDZD';
 $accessToken =   "EAAFofxYdbwUBAHPFf7LLcG8ZCq4pJAtPZBZCPVVCqn5H66TZCSABZCuAAX815TKlZAeOPhOH7Mxncq9jw6meZAEnOrbbXfrA2rg3ZACa2qRJlxh4YnOftvZAq8jS3JQVbS8NPaXE4lesrbc4ebBqp6akNmCzZCqZAv2kcDlg4HNlH1QvgZDZD";
 
 // check token at setup
